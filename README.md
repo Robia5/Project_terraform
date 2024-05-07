@@ -55,3 +55,4 @@ terraform plan                # pre-creation resource validation
 terraform apply               # deploy
 terraform destroy             # deletion
 ```
+# Project_terraform
